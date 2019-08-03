@@ -19,4 +19,9 @@ public class ReadingActivity extends AppCompatActivity {
         Intent intent1 = new Intent(ReadingActivity.this,AddbookRead.class);
         startActivity(intent1);
     }
+
+    public void onBack(View view){
+        Intent intent = new Intent(ReadingActivity.this,MainActivity.class);
+        startActivity(intent);
+    }
 }

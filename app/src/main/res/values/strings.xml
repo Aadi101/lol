@@ -17,7 +17,10 @@
     <string name="tV5">Add a Book to Read</string>
     <string name="tV3">Genre</string>
     <string name="tV4">Type</string>
-    <string name="btn2" translatable="false">ADD</string>
+    <string name="btn2">ADD</string>
     <string name="tv6">Suggestions</string>
     <string name="Tv1">Suggestions</string>
+    <string name="txtV" translatable="false" >Book Name</string>
+    <string name="editText2">Fifty Shades of Grey is a 2011 erotic romance novel by British author E. L. James.[1] It became the first instalment in the Fifty Shades novel series that follows the deepening relationship between a college graduate, Anastasia Steele, and a young business magnate, Christian Grey. It is notable for its explicitly erotic scenes featuring elements of sexual practices involving BDSM (bondage/discipline, dominance/submission, and sadism/masochism). Originally self-published as an ebook and print-on-demand in June 2011, the publishing rights to the novel were acquired by Vintage Books in March 2012.</string>
+    <string name="editText3">description</string>
 </resources>
