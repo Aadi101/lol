@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".AddbookRead"></activity>
+        <activity android:name=".SugsAct"></activity>
+        <activity android:name=".AddbookRead" />
         <activity android:name=".ReadingActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>

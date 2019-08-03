@@ -17,4 +17,7 @@
     <string name="tV5">Add a Book to Read</string>
     <string name="tV3">Genre</string>
     <string name="tV4">Type</string>
+    <string name="btn2" translatable="false">ADD</string>
+    <string name="tv6">Suggestions</string>
+    <string name="Tv1">Suggestions</string>
 </resources>
