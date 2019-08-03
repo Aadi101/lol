@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tv1">BookWorm</string>
+    <string name="tv2">Categories</string>
+    <string name="tv3">Reading</string>
+    <string name="tv4">My Books</string>
+    <string name="tv5">Future Books</string>
+    <string name="TV1">Reading</string>
+    <string name="tV1">Title</string>
+    <string name="eT1">Game of Thrones</string>
+    <string name="tV2">Author</string>
+    <string name="eT2">George RR Martin</string>
+    <string name="eT4">From</string>
+    <string name="eT3">Till</string>
+    <string name="cB1">Audio book</string>
+    <string name="cB">Book</string>
+    <string name="tV5">Add a Book to Read</string>
+    <string name="tV3">Genre</string>
+    <string name="tV4">Type</string>
+</resources>
